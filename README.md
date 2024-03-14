@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/Lakheras99/SUMER-LAKHERA/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner1.png)
+![logo](https://raw.githubusercontent.com/Lakheras99/SUMER-LAKHERA/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner(1).png)
 
 
 <h1 align="center">Hi 👋, I'm Sumer Lakhera</h1>
